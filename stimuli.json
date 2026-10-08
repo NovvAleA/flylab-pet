@@ -1,0 +1,23 @@
+{
+  "coffee": {
+    "label": "Кофе",
+    "target_rgb": [105, 62, 34],
+    "tolerance": 58,
+    "attraction": 1.0,
+    "effects": {"dopamine": 32, "octopamine": 18, "caffeine": 44, "hunger": -4}
+  },
+  "porridge": {
+    "label": "Каша",
+    "target_rgb": [221, 188, 125],
+    "tolerance": 42,
+    "attraction": 0.75,
+    "effects": {"dopamine": 18, "hunger": -46, "stress": -5}
+  },
+  "cigarette": {
+    "label": "Сигарета",
+    "target_rgb": [205, 202, 194],
+    "tolerance": 22,
+    "attraction": 0.08,
+    "effects": {"dopamine": 8, "octopamine": 12, "stress": 30}
+  }
+}

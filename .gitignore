@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.log
+*.pid
+.venv/
+venv/
+.idea/
+.vscode/
+dist/
+build/
+*.deb

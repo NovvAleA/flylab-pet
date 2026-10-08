@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=FlyLab — пульт мухи
+Comment=Запуск и настройка десктопной мухи
+Exec=/usr/bin/python3 @INSTALL_DIR@/control.py
+Icon=@INSTALL_DIR@/flylab-fly.svg
+Terminal=false
+Categories=Utility;Education;
+StartupNotify=false
+StartupWMClass=FlyLab Desktop Fly
